@@ -1,5 +1,7 @@
 # TTTGAN
 Three to Two  3D point cloud to 2D  depth image
+配合这个项目使用HawkEye-Data-Code
+
 # 一、安装所需环境
 
 1、`pip intstall - r requirements.txt`
